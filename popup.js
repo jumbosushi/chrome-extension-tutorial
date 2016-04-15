@@ -4,4 +4,4 @@ function runSwitchjs() {
   });
 }
 
-document.getElementById('clickme').addEventListener('click', runSwitchjs);
+document.getElementById('clickme').addEventListener('click', runSwitchjs());

@@ -9,7 +9,7 @@
     "48": "icon.png"
   },
 
-  "permissions": ["tabs"],
+  "permissions": ["tabs", "<all_urls>"],
 
   "browser_action": {
     "default_icon": "icon.png",
